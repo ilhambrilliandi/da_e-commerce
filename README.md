@@ -1,4 +1,4 @@
-# Project 1: Data Analysis - E-Commerce
+# Data Analysis: E-Commerce
 [Data Source](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 This project is end-to-end analysis, including data preprocessing and visualization, providing actionable insights into sales trends, top products, and seller performance from 3 years dataset of a store.
