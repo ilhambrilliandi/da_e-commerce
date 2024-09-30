@@ -1,20 +1,20 @@
 # Data Analysis: E-Commerce
 [Data Source](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-Overview:
+### Overview:
 Conducted an end-to-end analysis of a 3-year e-commerce dataset to uncover sales trends, identify top products, and assess seller performance.
 
-Key Steps:
+### Key Steps:
 - Data Preprocessing: Handled missing values, normalized sales figures, and categorized product types.
 - Visualization: Created interactive dashboards using [Looker](studio.google.com/u/1/reporting/05bab6a5-2092-44d0-a5d2-3db86ec9dbae) to visualize trends over time.
 
-Findings:
+### Findings:
 - Health & Beauty emerged as the top-selling category over three years.
 - Peak transaction times occurred on Mondays at 4 PM.
 
-Recommendations:
+### Recommendations:
 - Implement targeted promotions for top products and peak transaction times (e.g., discounts or free delivery).
 - Engage new customers with targeted offers on both high and low-selling products.
 
-Impact:
+### Impact:
 This analysis can help drive marketing strategies and inventory management, ultimately enhancing sales performance.
