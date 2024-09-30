@@ -6,7 +6,7 @@ Conducted an end-to-end analysis of a 3-year e-commerce dataset to uncover sales
 
 Key Steps:
 - Data Preprocessing: Handled missing values, normalized sales figures, and categorized product types.
-- Visualization: Created interactive dashboards using Tableau to visualize trends over time.
+- Visualization: Created interactive dashboards using [Looker](studio.google.com/u/1/reporting/05bab6a5-2092-44d0-a5d2-3db86ec9dbae) to visualize trends over time.
 
 Findings:
 - Health & Beauty emerged as the top-selling category over three years.
