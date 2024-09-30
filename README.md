@@ -1,14 +1,20 @@
 # Data Analysis: E-Commerce
 [Data Source](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-This project is end-to-end analysis, including data preprocessing and visualization, providing actionable insights into sales trends, top products, and seller performance from 3 years dataset of a store.
+Overview:
+Conducted an end-to-end analysis of a 3-year e-commerce dataset to uncover sales trends, identify top products, and assess seller performance.
 
-Conclusion:
-- Top product categories differ across 3 years, health beauty is the most bought category based on sum of 3 years.
-- Average busiest transactions occurred on Monday, at the afternoon (around 4PM).
+Key Steps:
+- Data Preprocessing: Handled missing values, normalized sales figures, and categorized product types.
+- Visualization: Created interactive dashboards using Tableau to visualize trends over time.
 
-Recommendation:
-- Give promotions and bonuses to most bought products to enhance sell performance.
-- Also give a discount to busiest transaction time such as promoting free delivery fee.
-- Give promotions to first buyer on least and most bought product to get them engage.
-- Give bonuses and rewards to the loyal customers.
+Findings:
+- Health & Beauty emerged as the top-selling category over three years.
+- Peak transaction times occurred on Mondays at 4 PM.
+
+Recommendations:
+- Implement targeted promotions for top products and peak transaction times (e.g., discounts or free delivery).
+- Engage new customers with targeted offers on both high and low-selling products.
+
+Impact:
+This analysis can help drive marketing strategies and inventory management, ultimately enhancing sales performance.
